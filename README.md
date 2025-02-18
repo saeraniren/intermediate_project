@@ -11,7 +11,7 @@
    - ``enter.content_page.csv``
    - ``enter.lesson_page.csv``
 4. 커밋 메세지는 ``작업 내용(홍길동)`` 와 같은 방식으로 입력해주시기 바랍니다.
-5. 작업하신 ipynb 파일을 commit/push 시 이름은 ``<영문이름이니셜_main.ipynb>``로 바꾼 후 진행해주시기 바립니다.
+5. 작업하신 ipynb 파일 이름을 commit/push 시 ``<영문이름이니셜_main.ipynb>``로 바꾼 후 진행해주시기 바립니다.
 6. 현재 repository 내 파일은 팀 내 GitHub 관리자를 제외한 **<ins>임의의 수정 및 삭제는 자제 부탁드립니다.</ins>**
 7. 이 repository는 향후 여러분들의 포트폴리오로 작성되기 위해 계속 공유된 상태로 열어둘 예정입니다!<br/>
    프로젝트가 끝날 시 ``data`` 내 모든 파일은 저작권 상의 이유로 지워지니 참고해주세요.
