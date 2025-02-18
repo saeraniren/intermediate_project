@@ -60,7 +60,7 @@ class click(BaseLoader):
 
     @staticmethod    
     def content_page_related_comment_box():
-        file_name = "click.content_page_related_comment_box.csv"
+        file_name = "click.content_page_related_question_box.csv"
         file_path = DATA_DIR / file_name
         if file_path.exists():
             return pd.read_csv(file_path)
@@ -73,7 +73,7 @@ class complete(BaseLoader):
 
     @staticmethod
     def episode():
-        file_name = "complete.episode.csv"
+        file_name = "complete.lesson.csv"
         file_path = DATA_DIR / file_name
         if file_path.exists():
             return pd.read_csv(file_path)
@@ -126,7 +126,7 @@ class enter(BaseLoader):
 
     @staticmethod
     def episode_page():
-        file_name = "enter.episode_page-001.csv"
+        file_name = "enter.lesson_page.csv"
         file_path = DATA_DIR / file_name
         if file_path.exists():
             return pd.read_csv(file_path)
@@ -166,7 +166,7 @@ class renew(BaseLoader):
 
     @staticmethod
     def resubscribe():
-        file_name = "renew.resubscribe.csv"
+        file_name = "renew.resubscription.csv"
         file_path = DATA_DIR / file_name
         if file_path.exists():
             return pd.read_csv(file_path)
