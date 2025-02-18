@@ -24,9 +24,13 @@
 <summary>Git Clone 관련</summary>
 <div markdown="1">
 
-1. VSCode를 킨 뒤 F1 버튼을 눌러 ``Git:Clone`` 검색 후 ``Clone from GitHub`` 실행
-2. ``saeraniren/intermediate_project`` 검색
-3. 작업 영역을 만들 곳에 ``Select as Repository Destination`` 클릭
+
+1. VSCode를 킨 뒤 F1 버튼을 눌러 ``Git:Clone`` 검색 후 ``Clone from GitHub`` 실행<br/>
+![clone1](./img/clone1.png)<br/>
+2. ``saeraniren/intermediate_project`` 검색<br/>
+![clone2](./img/clone2.png)<br/>
+3. 작업 영역을 만들 곳에 ``Select as Repository Destination`` 클릭<br/>
+![clone3](./img/clone3.png)<br/>
 
 </div>
 </details>
