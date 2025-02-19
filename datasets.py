@@ -179,7 +179,7 @@ class resubscribe(BaseLoader):
 
     @staticmethod
     def subscription():
-        file_name = "resubscribe.resubscription.csv"
+        file_name = "resubscribe.subscription.csv"
         file_path = DATA_DIR / file_name
         if file_path.exists():
             return pd.read_csv(file_path)
