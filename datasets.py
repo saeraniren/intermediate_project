@@ -59,8 +59,8 @@ class click(BaseLoader):
             raise FileNotFoundError(f"{file_path} not found")
 
     @staticmethod    
-    def content_page_related_comment_box():
-        file_name = "click.content_page_related_question_box.csv"
+    def lesson_page_related_comment_box():
+        file_name = "click.lesson_page_related_question_box.csv"
         file_path = DATA_DIR / file_name
         if file_path.exists():
             return pd.read_csv(file_path)
@@ -72,7 +72,7 @@ class complete(BaseLoader):
         super().__init__("complete")
 
     @staticmethod
-    def episode():
+    def lesson():
         file_name = "complete.lesson.csv"
         file_path = DATA_DIR / file_name
         if file_path.exists():
@@ -125,7 +125,7 @@ class enter(BaseLoader):
             raise FileNotFoundError(f"{file_path} not found")
 
     @staticmethod
-    def episode_page():
+    def lesson_page():
         file_name = "enter.lesson_page.csv"
         file_path = DATA_DIR / file_name
         if file_path.exists():
@@ -165,8 +165,8 @@ class renew(BaseLoader):
         super().__init__("renew")
 
     @staticmethod
-    def resubscribe():
-        file_name = "renew.resubscription.csv"
+    def subscription():
+        file_name = "renew.subscription.csv"
         file_path = DATA_DIR / file_name
         if file_path.exists():
             return pd.read_csv(file_path)
