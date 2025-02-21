@@ -59,8 +59,8 @@ class click(BaseLoader):
             raise FileNotFoundError(f"{file_path} not found")
 
     @staticmethod    
-    def lesson_page_related_question_box():
-        file_name = "click.lesson_page_related_question_box.csv"
+    def lesson_page_related_comment_box():
+        file_name = "click.lesson_page_related_comment_box.csv"
         file_path = DATA_DIR / file_name
         if file_path.exists():
             return pd.read_csv(file_path)
