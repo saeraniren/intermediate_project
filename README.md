@@ -3,6 +3,9 @@
 <프로젝트 PPT 링크>
 - [Canva 페이지](https://www.canva.com/design/DAGgQnTljnM/pzhIHq_0E40y2atpTXJOQg/view?utm_content=DAGgQnTljnM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h22f61e2aa9)
 
+<details>
+<summary> 주의 사항 </summary>
+
 <주의사항> (내용 추가시 디스코드로 공지할 예정)
 1. 현재 작업하고 계시는 폴더의 상위 폴더에 clone을 진행해주세요
 2. clone시 현재 저장소에 업로도 되어 있는 모든 데이터가 복제됩니다.<br/>
@@ -18,9 +21,10 @@
 6. 현재 repository 내 파일은 팀 내 GitHub 관리자를 제외한 **<ins>임의의 수정 및 삭제는 자제 부탁드립니다.</ins>**
 7. 이 repository는 향후 여러분들의 포트폴리오로 작성되기 위해 계속 공유된 상태로 열어둘 예정입니다!<br/>
    프로젝트가 끝날 시 ``data`` 내 모든 파일은 저작권 상의 이유로 지워지니 참고해주세요.
-
+</details>
 ---
-
+<details>
+<summary>숨김 처리</summary>
 이하, GitHub사용 설명 관련입니다.<br/>
 가장 크게 사용될 내용에 대해서 다루었고, 토글 방식으로 되어 있으니 클릭해서 봐주시면 감사드리겠습니다!<br/>
 질문이 생기시면 저에게 말씀해주세요!
@@ -56,6 +60,7 @@
 6. ``git push origin main`` 입력 시 GitHub 저장소에 저장 완료<br/>
 ![commit_push15](./img/commit_push5.png)<br/>
 </div>
+</details>
 </details>
 
 ---
