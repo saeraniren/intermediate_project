@@ -14,5 +14,3 @@
 - [유상범](https://github.com/saeraniren/intermediate_project)
 - [성유창](https://github.com/saeraniren/intermediate_project)
 - [정수민](https://github.com/saeraniren/intermediate_project)
-
----
