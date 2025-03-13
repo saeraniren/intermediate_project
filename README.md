@@ -1,9 +1,7 @@
 # 코드잇 스프린트 DA 5기 중급 프로젝트 Repository
 
-<수정사항>
-- git lfs 대역폭 제한으로 data 폴더 내 파일이 다운로드 되지 않는 현상 발생
-  - data 폴더 삭제 및 구글 다운로드 링크 제공 예정
-  - 기간은 중급 프로젝트 종료일 오후 7시까지 제공 후 만료 예정, 이후 필요 시 따로 요청 바람
+<프로젝트 PPT 링크>
+- [Canva 페이지](https://www.canva.com/design/DAGgQnTljnM/pzhIHq_0E40y2atpTXJOQg/view?utm_content=DAGgQnTljnM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h22f61e2aa9)
 
 <주의사항> (내용 추가시 디스코드로 공지할 예정)
 1. 현재 작업하고 계시는 폴더의 상위 폴더에 clone을 진행해주세요
